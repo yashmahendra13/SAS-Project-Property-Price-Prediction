@@ -1,6 +1,6 @@
 *;
 *;
-* HOUSE - Multiple Regression;
+* HOUSE - Principal Componenet Analysis;
 *;
     ods graphics on;
 *;
